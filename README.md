@@ -1,5 +1,5 @@
 
-Here’s a GitHub README template for your cricket game code:
+Here’s a GitHub README template for  cricket game code:
 
 Cricket Simulation Game 🎮🏏
 A fun, interactive Python program that simulates a cricket game between two players. This game includes a toss, batting, and bowling sessions, complete with commentary and real-time score updates. Players can achieve milestones like half-centuries and centuries during the game!
